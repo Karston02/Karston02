@@ -15,6 +15,6 @@
 
 ## 📈 &nbsp; My GitHub Stats
 [![karston's github streak](https://github-readme-streak-stats.herokuapp.com/?user=karston02&theme=blue-green)](https://karston.dev) <br /> <br />
-[jolly]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly
+![karston's github streak]: (https://github-readme-stats.vercel.app/api?username=karston02&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly)
 
 <br />
