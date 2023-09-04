@@ -13,4 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karston02&show_icons=true&locale=en" alt="karston02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karston02&" alt="karston02" /></p>
+## 📈 &nbsp; My GitHub Stats
+[![karston's github streak](https://github-readme-streak-stats.herokuapp.com/?user=karston02&theme=blue-green)](https://karston.dev) <br /> <br />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karston02&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
+<br />
