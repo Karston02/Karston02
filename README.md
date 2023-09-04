@@ -10,4 +10,4 @@
 
 ## 📈 &nbsp; My GitHub Stats
 [![karston's github streak](https://github-readme-streak-stats.herokuapp.com/?user=karston02&theme=blue-green)](https://chrismochinski.com) <br /> <br />
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karston02&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
