@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Karston</h1>
 <h3 align="center">A software developer studying at UT Austin!</h3>
 
-👨‍💻 My work can be seen at [karston.dev](karston.dev)
+👨‍💻 My work can be seen at [karston.dev](https://karston.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
