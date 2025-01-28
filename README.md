@@ -9,4 +9,4 @@
 </p>
 
 ## 📈 &nbsp; My GitHub Stats
-[![karston's github streak](https://github-readme-streak-stats.herokuapp.com/?user=karston02&theme=blue-green)](karston.dev) <br /> <br />
+[![Streak is trying to load...](https://github-readme-streak-stats.herokuapp.com/?user=karston02&theme=blue-green)](karston.dev) <br /> <br />
